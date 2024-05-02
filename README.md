@@ -6,7 +6,7 @@ Currently Learning C# in School
 # 💻 Tech Stack:
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![C#](https://img.shields.io/badge/csharp-%232C2D72.svg?style=for-the-badge&logo=csharp&logoColor=orange)
-![HTML](https://img.shields.io/badge/html-%232C2D72.svg?style=for-the-badge&logo=csharp&logoColor=orange)
+![HTML](https://img.shields.io/badge/html-%232C2D72.svg?style=for-the-badge&logo=html&logoColor=orange)
 # 📊 GitHub Stats:
 ![bloodycop7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bloodycop7&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
