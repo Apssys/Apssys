@@ -1,5 +1,10 @@
-# 💫 About Me:
+# About Me:
 I am a <img src="https://files.facepunch.com/garry/822e60dc-c931-43e4-800f-cbe010b3d4cc.png" width="20px"/> [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/) Programmer.
+# Projects:
+## Minerva Servers
+I am a developer at [Minerva Servers](https://discord.gg/PayC7BpwQE).
+## Helix : Enhanced Half - Life 2 Roleplay
+I have founded and developed this project, it's main function is to offer core Half - Life 2 Features to other developers to build upon.
 
 Currently Learning C# in School
 
