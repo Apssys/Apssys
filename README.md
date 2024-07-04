@@ -3,9 +3,9 @@ I am a <img src="https://files.facepunch.com/garry/822e60dc-c931-43e4-800f-cbe01
 Currently Learning C# in School
 # Projects:
 *  ## Minerva Servers
-  - I am a developer at [Minerva Servers](https://discord.gg/PayC7BpwQE).
+    - I am a developer at [Minerva Servers](https://discord.gg/PayC7BpwQE).
 *  ## Helix : Enhanced Half - Life 2 Roleplay
-  - I have founded and developed this project, it's main function is to offer core Half - Life 2 Features to other developers to build upon.
+    - I have founded and developed this project, it's main function is to offer core Half - Life 2 Features to other developers to build upon.
 
 # 💻 Tech Stack:
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
