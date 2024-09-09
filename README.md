@@ -28,9 +28,9 @@ I'm an enthusiast gamer and programmer. Some of my favorite games are:
 - [G](https://store.steampowered.com/app/4000/Garrys_Mod/)[Lua](https://www.lua.org/) - I have been programming in [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/) [Lua](https://www.lua.org/) since 2021.
 
 ## Contact Details
-- **Discord** - `bloodycop`\
-- **Email** - `minerva.servers.eon@gmail.com`\
-- **Steam** - [eon (bloodycop)](https://steamcommunity.com/id/bloodycop/)\
+- **Discord** - `bloodycop`
+- **Email** - `minerva.servers.eon@gmail.com`
+- **Steam** - [eon (bloodycop)](https://steamcommunity.com/id/bloodycop/)
 - **Minerva Servers** - [Discord](https://minerva-servers.com/discord)
 
 ## Support Me
