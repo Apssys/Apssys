@@ -2,21 +2,21 @@
 I'm an enthusiast gamer and programmer. Some of my favorite games are:
 
 ## Source Engine Games/Mods
-- [Half-Life 2](https://store.steampowered.com/app/220/HalfLife_2)
-- [Half-Life 2: Episode One](https://store.steampowered.com/app/380/HalfLife_2_Episode_One)
-- [Half-Life 2: Episode Two](https://store.steampowered.com/app/420/HalfLife_2_Episode_Two)
-- [Black Mesa](https://store.steampowered.com/app/362890/Black_Mesa)
-- [Entropy : Zero](https://store.steampowered.com/app/714070/Entropy__Zero)
-- [Entropy : Zero 2](https://store.steampowered.com/app/1583720/Entropy__Zero_2)
+- [**Half-Life 2**](https://store.steampowered.com/app/220/HalfLife_2)
+- [**Half-Life 2: Episode One**](https://store.steampowered.com/app/380/HalfLife_2_Episode_One)
+- [**Half-Life 2: Episode Two**](https://store.steampowered.com/app/420/HalfLife_2_Episode_Two)
+- [**Black Mesa**](https://store.steampowered.com/app/362890/Black_Mesa)
+- [**Entropy : Zero**](https://store.steampowered.com/app/714070/Entropy__Zero)
+- [**Entropy : Zero 2**](https://store.steampowered.com/app/1583720/Entropy__Zero_2)
 
-- [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod)
+- [**Garry's Mod**](https://store.steampowered.com/app/4000/Garrys_Mod)
 
-- [Counter-Strike 1.6](https://store.steampowered.com/app/10/CounterStrike)
-- [Counter-Strike 2](https://store.steampowered.com/app/730/CounterStrike_2)
+- [**Counter-Strike 1.6**](https://store.steampowered.com/app/10/CounterStrike)
+- [**Counter-Strike 2**](https://store.steampowered.com/app/730/CounterStrike_2)
   
 ## Other Games
-- Transformers: War for Cybertron
-- Transformers: Fall of Cybertron
+- **Transformers: War for Cybertron**
+- **Transformers: Fall of Cybertron**
   
 ## Projects
 - [Minerva Servers](https://minerva-servers.com/discord) - A Garry's Mod Community founded by my friend, [Riggs](https://github.com/riggs9162). I take the roles of Staff Manager, Community Manager and Developer.
