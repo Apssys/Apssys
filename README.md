@@ -27,3 +27,25 @@ I'm an enthusiast gamer and programmer. Some of my favorite games are:
 ## Notable Skills
 - Team Work - I am a communicative person, I work well with a team of people.
 - [G](https://store.steampowered.com/app/4000/Garrys_Mod/)[Lua](https://www.lua.org/) - I have been programming in [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/) [Lua](https://www.lua.org/) since 2021.
+
+## Contact Details
+- **Discord** - `bloodycop`
+- **Email** - `minerva.servers.eon@gmail.com`
+- **Steam** - [eon (bloodycop)](https://steamcommunity.com/id/bloodycop/)
+- **Minerva Servers** - [Discord](https://minerva-servers.com/discord)
+
+## Support Me
+If you want to support me, you can donate in the link down below.
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/theb3ta)
+
+## Stats and Trophies
+![Profile Views](https://komarev.com/ghpvc/?username=bloodycop7&color=blue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bloodycop7&layout=compact&theme=dark)
+
+![Riggs9162's GitHub stats](https://github-readme-stats.vercel.app/api?username=bloodycop7&show_icons=true&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bloodycop7&theme=dark)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=bloodycop7&theme=darkhub)
