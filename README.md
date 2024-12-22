@@ -22,9 +22,10 @@ I'm an enthusiast gamer and programmer. Some of my favorite games are:
 - [GlowLib](https://steamcommunity.com/sharedfiles/filedetails/?id=3279071164) - A personal project meant to bring back "GlowEyes", an old and un-optimized library made by me.
 - [Helix: Enhanced Half-Life 2 Roleplay](https://github.com/bloodycop7/ixehl2rp) - A personal project (yes, again) meant to showcase more core features from [Half-Life 2](https://store.steampowered.com/app/220/HalfLife_2/) to developers.
 - [Half-Life 2: Episode One Sandbox Maps](https://steamcommunity.com/sharedfiles/filedetails/?id=3325998244) - A project meant to make [Half-Life 2: Episode One](https://store.steampowered.com/app/380/HalfLife_2_Episode_One/) playable on the Sandbox Gamemode for [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/).
+- [Infinite Finality](https://www.moddb.com/mods/infinite-finality) - Infinite Finality is a Half-Life 2: Episode Two modification that is attempting to faithfully adapt the storyline of Marc Laidlaw's Epistle 3.
 
 ## Notable Skills
-- Team Work - I am a communicative person, I work well with a team of people.\
+- Team Work - I am a communicative person, I work well with a team of people.
 - [G](https://store.steampowered.com/app/4000/Garrys_Mod/)[Lua](https://www.lua.org/) - I have been programming in [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/) [Lua](https://www.lua.org/) since 2021.
 
 ## Contact Details
