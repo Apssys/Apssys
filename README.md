@@ -1,7 +1,5 @@
 # Greetings!
 I'm an enthusiast gamer and programmer. Some of my favorite games are:
-
-## Source Engine Games/Mods
 - [**Half-Life 2**](https://store.steampowered.com/app/220/HalfLife_2)
 - [**Half-Life 2: Episode One**](https://store.steampowered.com/app/380/HalfLife_2_Episode_One)
 - [**Half-Life 2: Episode Two**](https://store.steampowered.com/app/420/HalfLife_2_Episode_Two)
