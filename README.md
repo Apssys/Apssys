@@ -26,6 +26,7 @@ I'm an enthusiast gamer and programmer. Some of my favorite games are:
 ## Notable Skills
 - Team Work - I am a communicative person, I work well with a team of people.
 - [G](https://store.steampowered.com/app/4000/Garrys_Mod/)[Lua](https://www.lua.org/) - I have been programming in [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/) [Lua](https://www.lua.org/) since 2021.
+- C++ - I have beginner experience in working on the Source Engine
 
 ## Contact Details
 - **Discord** - `bloodycop`
