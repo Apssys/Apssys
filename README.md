@@ -1,51 +1,35 @@
-# Greetings!
-I'm an enthusiast gamer and programmer. Some of my favorite games are:
-- [**Half-Life 2**](https://store.steampowered.com/app/220/HalfLife_2)
-- [**Half-Life 2: Episode One**](https://store.steampowered.com/app/380/HalfLife_2_Episode_One)
-- [**Half-Life 2: Episode Two**](https://store.steampowered.com/app/420/HalfLife_2_Episode_Two)
-- [**Black Mesa**](https://store.steampowered.com/app/362890/Black_Mesa)
-- [**Entropy : Zero**](https://store.steampowered.com/app/714070/Entropy__Zero)
-- [**Entropy : Zero 2**](https://store.steampowered.com/app/1583720/Entropy__Zero_2)
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo22175
+Fork on GitHub7111
+<h1 align="center">Hi 👋, I'm eon (bloodycop)</h1>
+<h3 align="center">A passionate back-end developer and gamer!</h3>
 
-- [**Garry's Mod**](https://store.steampowered.com/app/4000/Garrys_Mod)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bloodycop7&label=Profile%20views&color=0e75b6&style=flat" alt="bloodycop7" /> </p>
 
-- [**Counter-Strike 1.6**](https://store.steampowered.com/app/10/CounterStrike)
-- [**Counter-Strike 2**](https://store.steampowered.com/app/730/CounterStrike_2)
-  
-- **Transformers: War for Cybertron**
-- **Transformers: Fall of Cybertron**
-- **Grand Theft Auto: San Andreas**
-  
-## Projects
-- [Minerva Servers](https://minerva-servers.com/discord) - A Garry's Mod Community founded by my friend, [Riggs](https://github.com/riggs9162). I take the roles of Staff Manager, Community Manager and Developer.
-- [GlowLib](https://steamcommunity.com/sharedfiles/filedetails/?id=3279071164) - A personal project meant to bring back "GlowEyes", an old and un-optimized library made by me.
-- [Helix: Enhanced Half-Life 2 Roleplay](https://github.com/bloodycop7/ixehl2rp) - A personal project (yes, again) meant to showcase more core features from [Half-Life 2](https://store.steampowered.com/app/220/HalfLife_2/) to developers.
-- [Half-Life 2: Episode One Sandbox Maps](https://steamcommunity.com/sharedfiles/filedetails/?id=3325998244) - A project meant to make [Half-Life 2: Episode One](https://store.steampowered.com/app/380/HalfLife_2_Episode_One/) playable on the Sandbox Gamemode for [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/).
-- [Infinite Finality](https://www.moddb.com/mods/infinite-finality) - Infinite Finality is a Half-Life 2: Episode Two modification that is attempting to faithfully adapt the storyline of Marc Laidlaw's Epistle 3.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bloodycop7" alt="bloodycop7" /></a> </p>
 
-## Notable Skills
-- Team Work - I am a communicative person, I work well with a team of people.
-- [G](https://store.steampowered.com/app/4000/Garrys_Mod/)[Lua](https://www.lua.org/) - I have been programming in [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/) [Lua](https://www.lua.org/) since 2021.
-- C++ - I have beginner experience in working on the Source Engine
+<p align="left"> <a href="https://twitter.com/bloodycop7" target="blank"><img src="https://img.shields.io/twitter/follow/bloodycop7?logo=twitter&style=for-the-badge" alt="bloodycop7" /></a> </p>
 
-## Contact Details
-- **Discord** - `bloodycop`
-- **Email** - `minerva.servers.eon@gmail.com`
-- **Steam** - [eon (bloodycop)](https://steamcommunity.com/id/bloodycop/)
-- **Minerva Servers** - [Discord](https://minerva-servers.com/discord)
+- 🔭 I’m currently working on [Minerva Servers](https://minerva-servers.com/)
 
-## Support Me
-If you want to support me, you can donate by pressing the button down below.
+- 🌱 I’m currently learning **C++, C#, GLua**
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/theb3ta)
+- 👨‍💻 All of my projects are available at [https://minerva-servers.com/portfolio/eon/](https://minerva-servers.com/portfolio/eon/)
 
-## Stats and Trophies
-![Profile Views](https://komarev.com/ghpvc/?username=bloodycop7&color=blue)
+- 📫 How to reach me **minerva.servers.eon@gmail.com**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bloodycop7&layout=compact&theme=dark)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/bloodycop7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bloodycop7" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/bloodycop7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bloodycop7" height="30" width="40" /></a>
+</p>
 
-![Riggs9162's GitHub stats](https://github-readme-stats.vercel.app/api?username=bloodycop7&show_icons=true&theme=dark)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bloodycop7&theme=dark)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bloodycop7&show_icons=true&locale=en&layout=compact" alt="bloodycop7" /></p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=bloodycop7&theme=darkhub)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bloodycop7&show_icons=true&locale=en" alt="bloodycop7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bloodycop7&" alt="bloodycop7" /></p>
