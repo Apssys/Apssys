@@ -14,6 +14,7 @@ I'm an enthusiast gamer and programmer. Some of my favorite games are:
   
 - **Transformers: War for Cybertron**
 - **Transformers: Fall of Cybertron**
+- **Grand Theft Auto: San Andreas**
   
 ## Projects
 - [Minerva Servers](https://minerva-servers.com/discord) - A Garry's Mod Community founded by my friend, [Riggs](https://github.com/riggs9162). I take the roles of Staff Manager, Community Manager and Developer.
